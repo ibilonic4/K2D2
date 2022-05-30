@@ -1,0 +1,10 @@
+ffos\controller\Obrada.class
+ffos\model\Vlasnik.class
+ffos\Start.class
+ffos\view\ViewAktivnosti.class
+ffos\model\Entitet.class
+ffos\model\Jastuk.class
+ffos\controller\ObradaJastuk.class
+ffos\controller\ObradaVlasnik.class
+ffos\utility\HibernateUtil.class
+ffos\view\Izbornik.class
